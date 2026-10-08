@@ -3,4 +3,4 @@ yfinance
 pandas
 plotly
 tqdm
-pandas-ta>=0.3.14b0
+git+https://github.com/twopirllc/pandas-ta.git
