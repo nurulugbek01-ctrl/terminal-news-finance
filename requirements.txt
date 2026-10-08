@@ -3,3 +3,4 @@ yfinance
 pandas
 plotly
 tqdm
+pandas-ta>=0.3.14b0
